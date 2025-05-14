@@ -3,7 +3,7 @@
 Plugin Name: Simple User Registration Form
 Description: A simple plugin to show a registration form and save data in a custom table.
 Version: 1.1
-Author: Your Name
+Author: Mayur Latake
 */
 
 add_shortcode('user_registration_form', 'urf_show_form');
